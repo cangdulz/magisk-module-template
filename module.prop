@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
+id=satpol501
+name=satpol501
+version=x3
+versionCode=x3
 author=topjohnwu
-description=A short description
+description= satpol x3 501 , silahkan di coba
 minMagisk=1500
